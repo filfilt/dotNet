@@ -1,0 +1,11 @@
+Part1: Introduction
+=========/========
+- Go to start buttom
+- visual studio 2019
+- continue without code
+- File=>New=>Project
+- check: at the top of the page (Visual Basic, Window and desktop are exist)
+- window Form App(.Net Framework)
+- Next
+- give Name =>select local Repo=>Create
+- then the work page is existed
