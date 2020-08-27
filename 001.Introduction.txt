@@ -17,3 +17,9 @@ Part1: Introduction
 - Run
 - click on the button
 - then we get the result with new popup page
+--------------------------------/------------------
+  Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        MessageBox.Show("This is my first vb code")
+    End Sub
+End Class
+--------------------------------/------------------
