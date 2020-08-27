@@ -9,3 +9,11 @@ Part1: Introduction
 - Next
 - give Name =>select local Repo=>Create
 - then the work page is existed
+======================//====================
+- drag drop buttom to the Form
+- Change the Name to "ShowMessage"
+- double click on Introduction
+- MessageBox.Show("This is my first vb code")
+- Run
+- click on the button
+- then we get the result with new popup page
