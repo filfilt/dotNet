@@ -1,0 +1,13 @@
+part2: Declar the variable
+==============//==========
+- Create the Form
+- Drag drop buttom and rename it "Showmessage"
+- ------------------/-----------------
+Public Class Form1
+    Dim message As String = "This is my first dotNet code"
+    Dim int As Integer = 25
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        MessageBox.Show(message)
+    End Sub
+End Class
+--------------------/-----------------
